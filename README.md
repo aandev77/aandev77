@@ -20,7 +20,7 @@
 - 💼 **Internships:** *Informatics Student*
 - 💵 **Freelancer:** 7+ projects delivered, including clients from different domains. 
 - 🛠️ **Focus Areas:** Full Stack, Problem Solving
-- 💣 **Fun Fact:** The Heart Of Engineering Is "Not Calculation"  But It Is "Problem Solving"  
+- 💣 **Quotes:** The Heart Of Engineering Is "Not Calculation"  But It Is "Problem Solving"  
 
 ---
 
