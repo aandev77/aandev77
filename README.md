@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=header&text=Parhan%20Aan%20Hasbulloh&fontSize=32&fontColor=ffffff&desc=Welcome+to+my+world+of+software+engineering&descAlignY=65" alt="Banner"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Parhan%20Aan%20Hasbulloh&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+world+of+software+engineering&descAlignY=75" alt="Banner"> 
 </p>
 
 <p align="center"> 
