@@ -1,9 +1,9 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Parhan%20Aan%20Hasbulloh&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+world+of+software+engineering&descAlignY=75" alt="Banner"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Aandev&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+world+of+full+stack+development&descAlignY=75" alt="Banner"> 
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Software+Engineer;Google+Developer+Enthusiast;Informatics+Student;Building+Scalable+Applications" alt="Typing Animation" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Informatics+Student;Building+Scalable+Applications" alt="Typing Animation" /> 
 </p> ---
 
 ## ⚡ About Me
