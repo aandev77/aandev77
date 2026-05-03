@@ -4,23 +4,22 @@
 
 > *"Not just a developer — a system that evolves with every bug fixed."*
 
-- 🧠 **Name:** *Advay Anand*  
-- 🏆 **Hackathon Warrior:** *3× Finalist* — Winner *(Techsprint-GDG)*, Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Yukti 1.0)*  Organized *(5X Hackathon)*
+- 🧠 **Name:** *Parhan Aan Hasbulloh*  
 - 👥 **Community Core:** *TechMasters* (500+ Developers), *GSA* (Mentor and Tech-Lead)
-- 💼 **Internships:** *Growbinar*, *Crensa*, *Vision-Mentix-Present*  
+- 💼 **Internships:** *PT Tanjung Mulia Informatika* 
 - 💵 **Freelancer:** 10+ projects delivered, including clients from different domains. 
-- 🛠️ **Focus Areas:** Full Stack, AI Integrations, ML Models
-- 💣 **Fun Fact:** I don’t “debug” — I **hunt** bugs and leave none alive.  
+- 🛠️ **Focus Areas:** Full Stack, Problem Solving
+- 💣 **Fun Fact:** The Heart Of Engineering Is "Not Calculation"  But It Is "Problem Solving"  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://instagram.com/advay_anand_7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-  <a href="https://x.com/AnandAdvay91289" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
-  <a href="https://leetcode.com/u/Advay87/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" alt="LeetCode" /></a>
+  <a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://instagram.com/07nt7nol7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://x.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://leetcode.com/u/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" alt="LeetCode" /></a>
   <a href="https://portfolio-advay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -29,7 +28,7 @@
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,vercel,aws,firebase,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,postgres,vercel,aws,firebase,github,figma,php,c++" />
 </p>
 
 ---
