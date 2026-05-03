@@ -1,14 +1,14 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Aandev&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+world+of+full+stack+development&descAlignY=75" alt="Banner"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Aandev&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+github+of+full+stack+development&descAlignY=75" alt="Banner"> 
 </p>
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Informatics+Student;Building+Scalable+Applications" alt="Typing Animation" /> 
-</p> ---
+</p>
 
 ## ⚡ About Me
 
-> *"Not just a developer — a system that evolves with every bug fixed"*
+> *"Aspiring developer — constantly learning and improving"*
 
 - 🧠 **Name:** *Parhan Aan Hasbulloh*  
 - 💼 **Internships:** *Informatics Student*
