@@ -1,21 +1,75 @@
-# 💫 About Me:
-Hi, I'm Parhan Aan Hasbulloh<br><br>About Me<br><br>I am an Informatics student with a strong interest in software engineering and modern technology.<br>I focus on building structured, efficient, and scalable applications while continuously improving my problem-solving and programming skills.
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=150&section=header&text=Advay%20Anand%20⚡%20Psycho%20Coder%20&fontSize=32&fontColor=ffffff&desc=🕸️+Welcome+to+my+Multiverse+of+Code!+🧠&descAlignY=65" alt="Banner"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;AI+%26+DevOps+Enthusiast+🤖;Freelancer+%7C+Debugger+Hunter+🔥;Hackathon+Finalist+🏆;Open+Source+Contributor+🌍" alt="Typing Animation" /> </p> ---
 
+## ⚡ About Me
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calmeaan77@gmail.com) 
+> *"Not just a developer — a system that evolves with every bug fixed."*
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aandev77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aandev77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aandev77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aandev77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🧠 **Name:** *Advay Anand*  
+- 🏆 **Hackathon Warrior:** *3× Finalist* — Winner *(Techsprint-GDG)*, Top 7 *(Sharda)*, Top 20 *(Hackemon)*, Top 10 *(Yukti 1.0)*  Organized *(5X Hackathon)*
+- 👥 **Community Core:** *TechMasters* (500+ Developers), *GSA* (Mentor and Tech-Lead)
+- 💼 **Internships:** *Growbinar*, *Crensa*, *Vision-Mentix-Present*  
+- 💵 **Freelancer:** 10+ projects delivered, including clients from different domains. 
+- 🛠️ **Focus Areas:** Full Stack, AI Integrations, ML Models
+- 💣 **Fun Fact:** I don’t “debug” — I **hunt** bugs and leave none alive.  
 
 ---
-[![](https://komarev.com/ghpvc/?username=aandev77&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/advay-anand-a89024277" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://instagram.com/advay_anand_7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://x.com/AnandAdvay91289" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+  <a href="https://leetcode.com/u/Advay87/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="40" alt="LeetCode" /></a>
+  <a href="https://portfolio-advay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,vercel,aws,firebase,github,figma" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🚀 Highlight Projects  
+
+| 🚀 Project | 🧠 Stack | 💡 Key Features | 🌍 Live Demo |
+|------------|----------|----------------|--------------|
+| **🧑🏻‍💼 [InterviewX](https://interviewx-sooty.vercel.app/)** | Next.js, Express, Supabase, React.js, Whisper API, | Recruiting AI in place of HR's | ✅ Live |
+| **🤖 [Neura-Twin](https://neura-twin-2-0.vercel.app/)** | Next.js, Node, MongoDB, ElevenLabs | Personal AI with personality analysis | ✅ Live |
+| **🌍 [Edunex-Global](https://www.edunexglobal.com/)** | React, Node, GMAIL SERVICES | International Education consulting firm | ✅ Live |
+| **🚆 [Locofy](https://train-guard.vercel.app/)** | Next.js, Express, MongoDB | Real-time GPS tracking + face ticketing | ✅ Live |
+| **💳 [Bio-Pay](https://bio-pay-connect.vercel.app/)** | IoT, Next.js, Node | Biometric-based UPI alternative | ✅ Live |
+| **🧩 [Cursed-Code](https://capture-the-flag-kappa.vercel.app/)** | React, Game APIs | CTF & Hackathon hosting platform | ✅ Live |
+
+> 🧠 See all projects at my [🌐 **Portfolio**](https://portfolio-advay.vercel.app/)
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=advay77&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=advay77&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advay77&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## ⚔️ Philosophy  
+
+> *“Code like there’s no tomorrow. Debug like you built the Matrix.”*  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
+</p>
