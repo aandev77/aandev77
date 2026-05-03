@@ -1,11 +1,17 @@
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=180&section=header&text=Aandev&fontSize=34&fontColor=ffffff&desc=Welcome+to+my+github+of+full+stack+development&descAlignY=75" alt="Banner"> 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Aandev&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Informatics%20Student&descAlignY=70&descSize=18" />
 </p>
 
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Informatics+Student;Building+Scalable+Applications" alt="Typing Animation" /> 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0D47A1&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
 
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D47A1&height=2&section=footer"/>
+</p>
 ## ⚡ About Me
 
 > *"Aspiring developer — constantly learning and improving"*
