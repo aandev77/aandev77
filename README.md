@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
   <a href="https://instagram.com/07nt7nol7" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-  <a href="https://portfolio-advay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portofolio-aandev77s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-> 🧠 See all projects at my [🌐 **Portfolio**](https://portfolio-advay.vercel.app/)
+> 🧠 See all projects at my [🌐 **Portfolio**](https://portofolio-aandev77s-projects.vercel.app/)
 
 ---
 
